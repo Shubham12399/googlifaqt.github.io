@@ -24,7 +24,7 @@
 body {
 	width: 100vw;
 	background: #f4f4f4;
-        -webkit-overflow:hidden;
+        -webkit-overflow-x:hidden;
 	
 }
 
