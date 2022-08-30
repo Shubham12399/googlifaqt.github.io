@@ -24,7 +24,7 @@
 body {
 	width: 100vw;
 	background: #f4f4f4;
-        -webkit-overflow-x:hidden;
+        
 	
 }
 
@@ -42,6 +42,7 @@ body {
 
 .container header {
 	background: white;
+overflow-x: hidden;
 }
 
 .logo-sec {
