@@ -200,7 +200,7 @@ button {
 }
 
 .search-sec input {
-	width: 120px;
+	width: 180px;
 	border: 1px solid var(--logo);
 	background: white;
 	border-radius: 8px;
