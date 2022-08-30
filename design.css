@@ -24,7 +24,7 @@
 body {
 	width: 100vw;
 	background: #f4f4f4;
-        overflow-x: hidden;
+        
 	
 }
 
@@ -192,6 +192,7 @@ button {
 	justify-content: center;
 	background: white;
         position:relative;
+        overflow-x: hidden;
 }
 
 .search-sec * {
