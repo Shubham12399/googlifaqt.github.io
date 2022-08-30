@@ -21,7 +21,7 @@
 body {
 	width: 100vw;
 	background: #f4f4f4;
-
+        overflow-x: hidden;
 }
 
 #left-ul {
